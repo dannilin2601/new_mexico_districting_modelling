@@ -3,4 +3,4 @@ IE 5318 – Principles of Operations Research project given by Dr.  Hamidreza Va
 
 This our group result for optimal district arrangement of New Mexico State.
 
-<img src="[image-link](https://github.com/dannilin2601/new_mexico_districting_modelling/edit/main/README.md#:~:text=README.md-,optimal_solution,-.png)https://github.com/dannilin2601/new_mexico_districting_modelling/edit/main/README.md#:~:text=README.md-,optimal_solution,-.png">
+![alt text]([http://url/to/img.png](https://github.com/dannilin2601/new_mexico_districting_modelling/edit/main/README.md#:~:text=README.md-,optimal_solution,-.png)https://github.com/dannilin2601/new_mexico_districting_modelling/edit/main/README.md#:~:text=README.md-,optimal_solution,-.png"))
